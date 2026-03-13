@@ -1,5 +1,7 @@
 # Real-World Digit Classification with Neural Networks (SVHN Dataset)
 
+![SVHN](images/svhn_examples.jpg)
+
 ## Overview
 
 This project implements a **deep learning pipeline for classifying real-world digit images** using neural networks built with TensorFlow. The notebook demonstrates an **end-to-end machine learning workflow**, including:
